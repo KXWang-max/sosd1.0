@@ -2,7 +2,6 @@
 
 ```js
 npm install
-npm install -g webpack
 npm webpack-cli -g
 ```
 
